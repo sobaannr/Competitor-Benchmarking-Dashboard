@@ -33,17 +33,26 @@ The goal of this project is to:
 
 
 Competitor Websites
-↓
-Web Scraping
-↓
-Data Cleaning & Feature Engineering
-↓
-Structured Dataset
-↓
-Competitive Analysis
-↓
-Interactive Flask Dashboard
 
+↓
+
+Web Scraping
+
+↓
+
+Data Cleaning & Feature Engineering
+
+↓
+
+Structured Dataset
+
+↓
+
+Competitive Analysis
+
+↓
+
+Interactive Flask Dashboard
 
 ---
 
@@ -153,3 +162,4 @@ Advanced pricing recommendation model
 Multi-industry benchmarking support
 
 Deployment to cloud platforms (AWS, Heroku, etc.)
+
