@@ -67,16 +67,25 @@ These metrics help identify:
 
 
 Competitor-Benchmarking-Dashboard/
+
 │
+
 ├── notebook/
 │ └── competitor_analysis.ipynb
+
 │
+
 ├── app.py
+
 ├── competitor_data.csv
+
 ├── company_summary.csv
+
 │
+
 ├── templates/
 │ └── index.html
+
 │
 └── README.md
 
@@ -139,5 +148,6 @@ Database integration
 Advanced pricing recommendation model
 
 Multi-industry benchmarking support
+
 
 Deployment to cloud platform
