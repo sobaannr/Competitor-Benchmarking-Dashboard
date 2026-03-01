@@ -71,7 +71,8 @@ Competitor-Benchmarking-Dashboard/
 │
 
 ├── notebook/
-│ └── competitor_analysis.ipynb
+│ 
+└── competitor_analysis.ipynb
 
 │
 
@@ -84,7 +85,8 @@ Competitor-Benchmarking-Dashboard/
 │
 
 ├── templates/
-│ └── index.html
+│ 
+└── index.html
 
 │
 └── README.md
@@ -151,3 +153,4 @@ Multi-industry benchmarking support
 
 
 Deployment to cloud platform
+
