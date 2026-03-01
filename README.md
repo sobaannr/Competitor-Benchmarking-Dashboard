@@ -65,30 +65,14 @@ These metrics help identify:
 
 ## Project Structure
 
-
 Competitor-Benchmarking-Dashboard/
-
-│
-
 ├── notebook/
-│ 
-└── competitor_analysis.ipynb
-
-│
-
+│ └── competitor_analysis.ipynb
 ├── app.py
-
 ├── competitor_data.csv
-
 ├── company_summary.csv
-
-│
-
 ├── templates/
-│ 
-└── index.html
-
-│
+│ └── index.html
 └── README.md
 
 
@@ -153,4 +137,5 @@ Multi-industry benchmarking support
 
 
 Deployment to cloud platform
+
 
