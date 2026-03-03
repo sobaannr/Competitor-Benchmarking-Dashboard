@@ -162,10 +162,11 @@ Advanced pricing recommendation model
 Multi-industry benchmarking support
 
 Deployment to cloud platforms (AWS, Heroku, etc.)
-
+'''
 ---
 ## Author
 
 Sobaan
+
 
 
